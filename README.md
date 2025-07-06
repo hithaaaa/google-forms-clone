@@ -1,4 +1,4 @@
-Google Forms Clone
+Google Forms Clone - CS 348 project
 
 To run this app, 
 git clone https://github.com/hithaaaa/google-forms-clone.git
